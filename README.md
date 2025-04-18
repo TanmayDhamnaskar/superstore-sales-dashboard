@@ -1,6 +1,6 @@
-# 📊 Superstore Sales Dashboard – Power BI
+# Superstore Sales Dashboard – Power BI
 
-📈 **Interactive Power BI dashboard built using the Superstore dataset to analyze sales trends, regional performance, product profitability, and customer segmentation.**
+**Interactive Power BI dashboard built using the Superstore dataset to analyze sales trends, regional performance, product profitability, and customer segmentation.**
 
 ## 📌 Objective
 
@@ -66,7 +66,7 @@ Contains sales data including:
 
 ```
 superstore-sales-dashboard/
-│── Dashborad_images                   # .jpeg 
+│── Dashborad_images                  # JPEG format
 │── README.md                         # Project documentation  
 │── superstore_sales_dashborad.pbix   # Interactive Power BI file  
 │── superstore_sales_report.pdf       # Exported static visual report  
